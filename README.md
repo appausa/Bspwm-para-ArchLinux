@@ -1,5 +1,5 @@
 # Bspwm-para-ArchLinux
-Menu para archlinux
+Temas para archlinux
 
 Configuraciones personales
 BSPwm, polybar, rofi y un par de scripts que facilitan el uso diario, sin sacrificar el rendimiento.
